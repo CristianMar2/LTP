@@ -2,14 +2,13 @@ package Lista4;
 
 import javax.swing.*;
 import java.util.Random;
-import java.util.jar.JarEntry;
 
 public class Questao9
 {
     public static void main(String[] args)
     {
         int[] vetor = new int[10];
-        int menor1, menor2, i;
+        int  i;
         StringBuilder valores = new StringBuilder();
         Random gira = new Random();
 
